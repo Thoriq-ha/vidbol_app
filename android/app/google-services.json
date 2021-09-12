@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342586552560",
+    "project_id": "authvidbolapp",
+    "storage_bucket": "authvidbolapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342586552560:android:37ecad8bf0144b26ce5235",
+        "android_client_info": {
+          "package_name": "com.example.vidbol_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342586552560-us69hccligd2sds5id1goi4sdd4ci2bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-No3spVqctWGsx1qsXS4ewix9ucwKe7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342586552560-us69hccligd2sds5id1goi4sdd4ci2bn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
